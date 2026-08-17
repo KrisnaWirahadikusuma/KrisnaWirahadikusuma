@@ -1,8 +1,12 @@
-<!-- ============================================ -->
-<!--   HEADER BANNER — capsule-render (stabil)   -->
-<!-- ============================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A0033,50:6A0DAD,100:C77DFF&amp;height=230&amp;section=header&amp;text=KRISNA%20WIRAHADIKUSUMA&amp;fontSize=38&amp;fontAlignY=36&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=%3E%20Computer%20Vision%20%26%20AI%20Enthusiast&amp;descAlignY=58&amp;descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,100:C77DFF&height=230&section=header&text=KRISNA%20WIRAHADIKUSUMA&fontSize=38&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Computer%20Vision%20and%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+</p>
+
+<!-- Typing Subtitle Animation -->
+<p align="center">
+  <a href="https://github.com/KrisnaWirahadikusuma">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C77DFF&center=true&vcenter=true&width=600&height=50&lines=Computer+Vision+%26+AI+Enthusiast;Python+%26+Automation+Developer;Creator+of+HandPoint;Building+Future-Tech+Interfaces" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
@@ -24,9 +28,7 @@
                                                                                     
 ```
 
-<!-- ============================================ -->
-<!--   BADGES — shields.io (super stabil)         -->
-<!-- ============================================ -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building%20Functional%20Stuff-9D4EDD?style=for-the-badge&amp;labelColor=101010" />
   <img src="https://img.shields.io/badge/Focus-Cyber%20Security-C77DFF?style=for-the-badge&amp;labelColor=101010" />
@@ -37,9 +39,7 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--   SYSTEM OVERVIEW & COMMIT STREAK             -->
-<!-- ============================================ -->
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -64,9 +64,7 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--   TECH STACK — skillicons.dev (stabil)       -->
-<!-- ============================================ -->
+
 <h3 align="center">🛠️ Tech Stack &amp; Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -76,9 +74,7 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--   FEATURED PROJECT — versi badge, no rate-limit -->
-<!-- ============================================ -->
+
 <h3 align="center">🌟 Featured Project</h3>
 <p align="center">
   <a href="https://github.com/KrisnaWirahadikusuma/HandPoint">
@@ -91,9 +87,7 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--   GITHUB METRICS — shields.io profile counters -->
-<!-- ============================================ -->
+
 <h3 align="center">📊 GitHub Metrics</h3>
 <p align="center">
   <img src="https://img.shields.io/github/followers/KrisnaWirahadikusuma?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=FOLLOWERS" />
@@ -103,9 +97,7 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--   GITHUB ACHIEVEMENTS — shields.io (stabil)  -->
-<!-- ============================================ -->
+
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Contributor-Open%20Source-9D4EDD?style=for-the-badge&amp;labelColor=1A0033" />
@@ -115,9 +107,7 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--   CLOSING QUOTE                               -->
-<!-- ============================================ -->
+
 <div align="center">
 
 ```
@@ -129,9 +119,6 @@
 
 </div>
 
-<!-- ============================================ -->
-<!--   FOOTER BANNER — capsule-render (stabil)    -->
-<!-- ============================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A0033,50:6A0DAD,100:C77DFF&amp;height=120&amp;section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A0033,100:C77DFF&amp;height=120&amp;section=footer" width="100%" />
 </p>
