@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,100:C77DFF&height=230&section=header&text=KRISNA%20WIRAHADIKUSUMA&fontSize=38&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Computer%20Vision%20and%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,100:C77DFF&height=230&section=header&text=KRISNA%20WIRAHADIKUSUMA&fontSize=38&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Fiat%20Justitia%20,%20Ruat%20Caelum&descAlignY=58&descSize=16" width="100%" />
 </p>
 
 <!-- Typing Subtitle Animation -->
 <p align="center">
   <a href="https://github.com/KrisnaWirahadikusuma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C77DFF&center=true&vcenter=true&width=600&height=50&lines=Computer+Vision+%26+AI+Enthusiast;Python+%26+Automation+Developer;Creator+of+HandPoint;Building+Future-Tech+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=C77DFF&center=true&vcenter=true&width=750&height=65&lines=Computer+Vision+%26+AI+Enthusiast;Python+%26+Automation+Developer;Creator+of+HandPoint;Building+Future-Tech+Interfaces" alt="Typing SVG" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@
 <h3 align="center">🛠️ Tech Stack &amp; Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,opencv,git,github,vscode,linux&amp;theme=dark&amp;perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,bash,opencv,tensorflow,pytorch,sklearn,git,github,vscode,linux,ubuntu,powershell,postman&theme=dark&perline=9" />
   </a>
 </p>
 
