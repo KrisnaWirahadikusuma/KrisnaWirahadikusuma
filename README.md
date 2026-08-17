@@ -11,6 +11,8 @@
 
 <div align="center">
 
+
+
 ```text
                                                                                   
  ____    ____       _____    ____          ______  _____   ______          ____   
@@ -37,9 +39,6 @@
 
 </div>
 
-<br/>
-
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -64,26 +63,43 @@
 
 <br/>
 
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=9D4EDD&center=true&vcenter=true&width=600&height=100&lines=%3E_Initializing+System_...;%3E_Loading+Neural+Network+Models_...;%3E_HandPoint+Core%3A+ACTIVE;%3E_Ready+for+Next+Gesture_..." alt="Terminal Loop" />
+</p>
 
 <h3 align="center">🛠️ Tech Stack &amp; Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,bash,opencv,tensorflow,pytorch,sklearn,git,github,vscode,visualstudio,pycharm,linux,ubuntu,powershell,obsidian,windows,linkedin,apple,discord&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,bash,opencv,tensorflow,pytorch,sklearn,git,github,vscode,visualstudio,pycharm,linux,ubuntu,windows,apple,powershell,obsidian,linkedin,discord,twitter,instagram,workers&theme=dark&perline=9" />
   </a>
 </p>
 
 <br/>
 
 
-<h3 align="center">🌟 Featured Project</h3>
-<p align="center">
-  <a href="https://github.com/KrisnaWirahadikusuma/HandPoint">
-    <img src="https://img.shields.io/badge/HandPoint-Gesture%20Virtual%20Mouse-9D4EDD?style=for-the-badge&amp;logo=opencv&amp;logoColor=white&amp;labelColor=1A0033" />
-  </a>
-</p>
-<p align="center">
-  <sub>Touchless computer control using real-time hand-tracking, built with Python &amp; OpenCV.</sub>
-</p>
+<h3 align="center">🌟 Featured Projects</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🖐️ HandPoint</h4>
+      <a href="https://github.com/KrisnaWirahadikusuma/HandPoint">
+        <img src="https://img.shields.io/badge/HandPoint-Gesture%20Virtual%20Mouse-9D4EDD?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1A0033" />
+      </a>
+      <br/><br/>
+      <sub>Touchless computer control using real-time hand-tracking, built with Python &amp; OpenCV.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🛡️ FacialAuth</h4>
+      <a href="https://github.com/KrisnaWirahadikusuma/FacialAuth">
+        <img src="https://img.shields.io/badge/FacialAuth-Biometric%20Anti--Spoofing-C77DFF?style=for-the-badge&logo=python&logoColor=white&labelColor=1A0033" />
+      </a>
+      <br/><br/>
+      <sub>Real-time face verification &amp; anti-spoofing continuous liveness check for online proctoring.</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -107,6 +123,9 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 <div align="center">
 
