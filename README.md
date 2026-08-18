@@ -68,7 +68,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=9D4EDD&center=true&vcenter=true&width=600&height=100&lines=%3E_Initializing+System_...;%3E_Loading+Neural+Network+Models_...;%3E_HandPoint+Core%3A+ACTIVE;%3E_Ready+for+Next+Gesture_..." alt="Terminal Loop" />
 </p>
 
-<h3 align="center">🛠️ Tech Stack &amp; Arsenal</h3>
+<h3 align="center">⊹ ࣪⌬ˎˊ˗ Tech Stack &amp; Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,bash,opencv,tensorflow,pytorch,sklearn,git,github,vscode,visualstudio,pycharm,linux,ubuntu,windows,apple,powershell,obsidian,linkedin,discord,twitter,instagram,workers&theme=dark&perline=9" />
@@ -78,7 +78,7 @@
 <br/>
 
 
-<h3 align="center">🌟 Featured Projects</h3>
+<h3 align="center">˙⋆✮ Featured Projects</h3>
 
 <table align="center" width="100%">
   <tr>
@@ -104,7 +104,7 @@
 <br/>
 
 
-<h3 align="center">📊 GitHub Metrics</h3>
+<h3 align="center">ᯓ➤ GitHub Metrics</h3>
 <p align="center">
   <img src="https://img.shields.io/github/followers/KrisnaWirahadikusuma?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=C77DFF&amp;labelColor=1A0033&amp;label=HANDPOINT%20STARS" />
@@ -114,7 +114,7 @@
 <br/>
 
 
-<h3 align="center">🏆 Core Philosophies &amp; Metrics</h3>
+<h3 align="center">🕮 Core Philosophies &amp; Metrics</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Methodology-Autodidactism%20%26%20R%26D-9D4EDD?style=for-the-badge&labelColor=1A0033" />
   <img src="https://img.shields.io/badge/Doctrine-Nullius%20in%20Verba-C77DFF?style=for-the-badge&labelColor=1A0033" />
