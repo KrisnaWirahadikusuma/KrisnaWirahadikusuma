@@ -114,13 +114,12 @@
 <br/>
 
 
-<h3 align="center">🏆 GitHub Achievements</h3>
+<h3 align="center">🏆 Core Philosophies &amp; Metrics</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributor-Open%20Source-9D4EDD?style=for-the-badge&amp;labelColor=1A0033" />
-  <img src="https://img.shields.io/badge/Learning-Never%20Stops-C77DFF?style=for-the-badge&amp;labelColor=1A0033" />
-  <img src="https://img.shields.io/github/repo-size/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=E0AAFF&amp;labelColor=1A0033&amp;label=REPO%20SIZE" />
+  <img src="https://img.shields.io/badge/Methodology-Autodidactism%20%26%20R%26D-9D4EDD?style=for-the-badge&labelColor=1A0033" />
+  <img src="https://img.shields.io/badge/Doctrine-Nullius%20in%20Verba-C77DFF?style=for-the-badge&labelColor=1A0033" />
+  <img src="https://img.shields.io/badge/Codebase-Empirically%20Validated-E0AAFF?style=for-the-badge&labelColor=1A0033" />
 </p>
-
 <br/>
 
 <p align="center">
