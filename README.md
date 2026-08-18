@@ -116,10 +116,11 @@
 
 <h3 align="center">🕮 Core Philosophies &amp; Metrics</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Methodology-Autodidactism%20%26%20R%26D-9D4EDD?style=for-the-badge&labelColor=1A0033" />
-  <img src="https://img.shields.io/badge/Doctrine-Nullius%20in%20Verba-C77DFF?style=for-the-badge&labelColor=1A0033" />
-  <img src="https://img.shields.io/badge/Codebase-Empirically%20Validated-E0AAFF?style=for-the-badge&labelColor=1A0033" />
+  <img src="https://img.shields.io/badge/Engineering-Low--Latency%20Vision-9D4EDD?style=for-the-badge&labelColor=1A0033" />
+  <img src="https://img.shields.io/badge/Approach-Data--Driven%20Optimization-C77DFF?style=for-the-badge&labelColor=1A0033" />
+  <img src="https://img.shields.io/badge/Systems-Edge--Compatible-E0AAFF?style=for-the-badge&labelColor=1A0033" />
 </p>
+
 <br/>
 
 <p align="center">
