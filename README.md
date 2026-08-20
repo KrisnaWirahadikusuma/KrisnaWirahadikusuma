@@ -71,7 +71,7 @@
 <h3 align="center">⊹ ࣪⌬ˎˊ˗ Tech Stack &amp; Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,bash,opencv,tensorflow,pytorch,sklearn,git,github,vscode,visualstudio,pycharm,linux,ubuntu,windows,apple,powershell,obsidian,linkedin,discord,twitter,instagram,workers&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,git,github,bash,opencv,react,tensorflow,pytorch,cloudflare,aws,vscode,vscodium,pycharm,linux,kali,windows,apple,powershell,obsidian,linkedin,discord,instagram&theme=dark&perline=9" />
   </a>
 </p>
 
