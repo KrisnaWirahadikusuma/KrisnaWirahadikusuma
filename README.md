@@ -130,8 +130,8 @@
 <div align="center">
 
 ```
-"Code is the language of the future — every line I write today
- is a step closer to interfaces that respond to a single gesture."
+"Cybersecurity is like a game of poker:
+ you always have to stay one step ahead."
 ```
 
 <sub>⚡ Designed with logic. Powered by curiosity. Built for what's next. ⚡</sub>
