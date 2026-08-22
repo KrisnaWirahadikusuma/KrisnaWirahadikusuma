@@ -76,7 +76,6 @@
 
 <br/>
 
-
 <h3 align="center">˙⋆✮ Featured Projects</h3>
 
 <table align="center" width="100%">
