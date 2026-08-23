@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,100:C77DFF&height=230&section=header&text=KRISNA%20WIRAHADIKUSUMA&fontSize=38&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Fiat%20Justitia%20,%20Ruat%20Caelum&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A0033,100:C77DFF&amp;height=230&amp;section=header&amp;text=KRISNA%20WIRAHADIKUSUMA&amp;fontSize=38&amp;fontAlignY=36&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Fiat%20Justitia%20,%20Ruat%20Caelum&amp;descAlignY=58&amp;descSize=16" width="100%" />
 </p>
 
-<!-- Typing Subtitle Animation -->
 <p align="center">
   <a href="https://github.com/KrisnaWirahadikusuma">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=C77DFF&center=true&vcenter=true&width=750&height=65&lines=Computer+Vision+%26+AI+Enthusiast;Python+%26+Automation+Developer;Creator+of+HandPoint;Building+Future-Tech+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=1000&amp;color=9D4EDD&amp;center=true&amp;vcenter=true&amp;width=650&amp;height=40&amp;lines=Undergraduate+Computer+Science+%40+Binus;Cyber+Security+%7C+AI+%7C+Web+Engineering;Executing+100-Day+Cybersec+Roadmap;Building+Low-Latency+Vision+Models" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-
-
 
 ```text
                                                                                   
@@ -29,94 +26,183 @@
    '       '      '     '      '       '    '           '       '      '      '   
                                                                                     
 ```
- 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Functional%20Stuff-9D4EDD?style=for-the-badge&amp;labelColor=101010" />
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-C77DFF?style=for-the-badge&amp;labelColor=101010" />
-  <img src="https://img.shields.io/badge/Role-High%20School%20Developer-E0AAFF?style=for-the-badge&amp;labelColor=101010" />
+  <img src="https://img.shields.io/badge/SYS__STATUS-ONLINE-101010?style=for-the-badge&amp;logo=linux&amp;logoColor=9D4EDD&amp;labelColor=1A0033" alt="Status" />
+  <img src="https://img.shields.io/badge/CURRENT__FOCUS-CV%20%26%20CYBERSEC-101010?style=for-the-badge&amp;logo=shield&amp;logoColor=9D4EDD&amp;labelColor=1A0033" alt="Focus" />
+  <img src="https://img.shields.io/badge/ROLE-CS%20UNDERGRADUATE-101010?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=9D4EDD&amp;labelColor=1A0033" alt="Role" />
 </p>
 
 </div>
 
+<br/>
+
+<!-- ============================================ -->
+<!--   DIRECTIVE — mission statement blockquote    -->
+<!-- ============================================ -->
+<blockquote>
+<sub>
+<b>Directive:</b> Engineering robust architectures, exploiting network vulnerabilities (ethically), and building touchless human-computer interfaces. Currently scaling foundational knowledge into production-grade systems.
+</sub>
+</blockquote>
+
+<br/>
+
+<!-- ============================================ -->
+<!--   ACTIVE OPERATIONS — symmetric mission table -->
+<!-- ============================================ -->
+<h3 align="center">📡 Active Operations &amp; Directives</h3>
+
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ System Overview</h3>
-      <ul>
-        <li>🔭 <b>Featured Work:</b> <a href="https://github.com/KrisnaWirahadikusuma/HandPoint">HandPoint</a> (Gesture Virtual Mouse)</li>
-        <li>🌱 <b>Currently Learning:</b> Computer Vision, OpenCV, &amp; C++</li>
-        <li>💡 <b>Interests:</b> Real-time Human-Computer Interaction &amp; AI</li>
-        <li>🎯 <b>Current Goal:</b> Building touchless computer control interfaces</li>
-      </ul>
+    <th width="12%" align="center">Task ID</th>
+    <th width="28%" align="left">Operation</th>
+    <th width="45%" align="left">Description</th>
+    <th width="15%" align="center">Status</th>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>OP-01</code></sub></td>
+    <td><sub><code>100-Day_Cybersec_Roadmap</code></sub></td>
+    <td><sub>Mastering network fundamentals, Linux privilege escalation, and CTF methodologies.</sub></td>
+    <td align="center"><sub>🟢 <code>EXECUTING</code></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>OP-02</code></sub></td>
+    <td><sub><code>.id_DeveloperDay_2026</code></sub></td>
+    <td><sub>Architecting data pipelines &amp; web UI for an operational station-data MVP.</sub></td>
+    <td align="center"><sub>🟡 <code>DEVELOPMENT</code></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>OP-03</code></sub></td>
+    <td><sub><code>Hardware_DIY_Network</code></sub></td>
+    <td><sub>Researching plug-and-play Wi-Fi/NFC modules for a modular network-auditing tool.</sub></td>
+    <td align="center"><sub>🔵 <code>RESEARCH</code></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>OP-04</code></sub></td>
+    <td><sub><code>Academic_Integration</code></sub></td>
+    <td><sub>CS Undergraduate at Bina Nusantara University, Semester 1.</sub></td>
+    <td align="center"><sub>🟢 <code>ACTIVE</code></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============================================ -->
+<!--   ABOUT ME — symmetric 65/35 cards            -->
+<!-- ============================================ -->
+<h3 align="center">✦ About Me</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <h4>🎓 Currently Studying</h4>
+      <sub>Computer Science at <b>Bina Nusantara University</b> — where theory meets late-night debugging.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔥 Commit Activity</h3>
-      <p align="center">
-        <br/>
-        <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=C77DFF&amp;labelColor=1A0033&amp;label=LAST%20COMMIT" /><br/><br/>
-        <img src="https://img.shields.io/github/commit-activity/y/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=COMMITS%2FYEAR" />
-      </p>
+    <td width="35%" valign="middle" align="center">
+      <h4>🔭</h4>
+      <sub><b>Building</b><br/><a href="https://github.com/KrisnaWirahadikusuma/HandPoint">HandPoint</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="middle" align="center">
+      <h4>🌱</h4>
+      <sub><b>Learning</b><br/>OpenCV &amp; C++</sub>
+    </td>
+    <td width="65%" valign="middle">
+      <h4>🤝 Open to Collaborate On</h4>
+      <sub>Real-time computer-vision projects and human-computer interaction tools.</sub>
     </td>
   </tr>
 </table>
-<br/>
 
-<br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=9D4EDD&center=true&vcenter=true&width=600&height=100&lines=%3E_Initializing+System_...;%3E_Loading+Neural+Network+Models_...;%3E_HandPoint+Core%3A+ACTIVE;%3E_Ready+for+Next+Gesture_..." alt="Terminal Loop" />
+  <sub>🤔 <b>Looking for help with</b> — low-latency model inference on edge devices &nbsp;&nbsp;|&nbsp;&nbsp; 💬 <b>Ask me about</b> — gesture recognition &amp; anti-spoofing</sub>
 </p>
 
-<h3 align="center">⊹ ࣪⌬ˎˊ˗ Tech Stack &amp; Arsenal</h3>
+<p align="center">
+  <sub>⚡ <b>Fun fact:</b> I once debugged a hand-tracking model for three days — turns out the webcam feed was just mirrored.</sub>
+</p>
+
+<br/>
+
+<!-- ============================================ -->
+<!--   COMMIT ACTIVITY — full-width banner strip   -->
+<!-- ============================================ -->
+<h3 align="center">🔥 Commit Activity</h3>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=LAST%20COMMIT" />
+  <img src="https://img.shields.io/github/commit-activity/y/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=COMMITS%2FYEAR" />
+</p>
+<p align="center">
+  <sub>🎯 Current goal: building touchless interfaces that feel invisible to the user.</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=500&amp;color=9D4EDD&amp;center=true&amp;vcenter=true&amp;width=600&amp;height=100&amp;lines=%3E_Initializing+System_...;%3E_Loading+Neural+Network+Models_...;%3E_HandPoint+Core%3A+ACTIVE;%3E_Ready+for+Next+Gesture_..." alt="Terminal Loop" />
+</p>
+
+<!-- ============================================ -->
+<!--   TECH STACK                                  -->
+<!-- ============================================ -->
+<h3 align="center">🛠️ Technical Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,git,github,bash,opencv,react,tensorflow,pytorch,cloudflare,aws,vscode,vscodium,pycharm,linux,kali,windows,apple,powershell,obsidian,linkedin,discord,instagram&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,git,github,bash,opencv,react,tensorflow,pytorch,cloudflare,aws,vscode,vscodium,pycharm,linux,kali,windows,apple,powershell,obsidian,linkedin,discord,instagram&amp;theme=dark&amp;perline=9" />
   </a>
 </p>
 
 <br/>
 
-<h3 align="center">˙⋆✮ Featured Projects</h3>
+<!-- ============================================ -->
+<!--   FEATURED PROJECTS — symmetric 35/65 zigzag  -->
+<!-- ============================================ -->
+<h3 align="center">˙⋆✮ Production-Grade Deployments</h3>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>🖐️ HandPoint</h4>
+    <td width="35%" align="center" valign="middle">
+      <h1>🖐️</h1>
       <a href="https://github.com/KrisnaWirahadikusuma/HandPoint">
-        <img src="https://img.shields.io/badge/HandPoint-Gesture%20Virtual%20Mouse-9D4EDD?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1A0033" />
+        <img src="https://img.shields.io/badge/HandPoint-9D4EDD?style=for-the-badge&amp;logo=opencv&amp;logoColor=white&amp;labelColor=1A0033" />
       </a>
-      <br/><br/>
-      <sub>Touchless computer control using real-time hand-tracking, built with Python &amp; OpenCV.</sub>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🛡️ FacialAuth</h4>
+    <td width="65%" valign="middle">
+      <b>Gesture Virtual Mouse</b><br/>
+      <sub>Touchless computer control using real-time hand-tracking, built with Python &amp; OpenCV. No touchpad, no clicks — just your hand.</sub><br/><br/>
+      <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/HandPoint?style=flat-square&amp;color=9D4EDD&amp;labelColor=1A0033" />
+    </td>
+  </tr>
+  <tr>
+    <td width="65%" valign="middle" align="right">
+      <b>Biometric Anti-Spoofing</b><br/>
+      <sub>Real-time face verification with continuous liveness detection, built for online proctoring where a photo shouldn't be enough to fool the system.</sub><br/><br/>
+      <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/FacialAuth?style=flat-square&amp;color=9D4EDD&amp;labelColor=1A0033" />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <h1>🛡️</h1>
       <a href="https://github.com/KrisnaWirahadikusuma/FacialAuth">
-        <img src="https://img.shields.io/badge/FacialAuth-Biometric%20Anti--Spoofing-C77DFF?style=for-the-badge&logo=python&logoColor=white&labelColor=1A0033" />
+        <img src="https://img.shields.io/badge/FacialAuth-9D4EDD?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=1A0033" />
       </a>
-      <br/><br/>
-      <sub>Real-time face verification &amp; anti-spoofing continuous liveness check for online proctoring.</sub>
     </td>
   </tr>
 </table>
 
 <br/>
 
-
-<h3 align="center">ᯓ➤ GitHub Metrics</h3>
+<!-- ============================================ -->
+<!--   TELEMETRY — stats, symmetric side-by-side   -->
+<!-- ============================================ -->
+<h3 align="center">📊 Telemetry</h3>
 <p align="center">
   <img src="https://img.shields.io/github/followers/KrisnaWirahadikusuma?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=C77DFF&amp;labelColor=1A0033&amp;label=HANDPOINT%20STARS" />
-  <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=E0AAFF&amp;labelColor=1A0033&amp;label=LAST%20COMMIT" />
+  <img src="https://img.shields.io/github/stars/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=STARS" />
+  <img src="https://img.shields.io/github/repo-size/KrisnaWirahadikusuma/HandPoint?style=for-the-badge&amp;color=9D4EDD&amp;labelColor=1A0033&amp;label=REPO%20SIZE" />
 </p>
-
-<br/>
-
-
-<h3 align="center">🕮 Core Philosophies &amp; Metrics</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineering-Low--Latency%20Vision-9D4EDD?style=for-the-badge&labelColor=1A0033" />
-  <img src="https://img.shields.io/badge/Approach-Data--Driven%20Optimization-C77DFF?style=for-the-badge&labelColor=1A0033" />
-  <img src="https://img.shields.io/badge/Systems-Edge--Compatible-E0AAFF?style=for-the-badge&labelColor=1A0033" />
+  <sub>Engineering low-latency vision &nbsp;·&nbsp; data-driven optimization &nbsp;·&nbsp; built edge-compatible</sub>
 </p>
 
 <br/>
