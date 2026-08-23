@@ -95,34 +95,55 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="65%" valign="middle">
-      <h4>🎓 Currently Studying</h4>
+    <td width="8%" align="center" valign="middle"><h2>🎓</h2></td>
+    <td width="92%" valign="middle">
+      <b>Currently Studying</b><br/>
       <sub>Computer Science at <b>Bina Nusantara University</b> — where theory meets late-night debugging.</sub>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <h4>🔭</h4>
-      <sub><b>Building</b><br/><a href="https://github.com/KrisnaWirahadikusuma/HandPoint">HandPoint</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="35%" valign="middle" align="center">
-      <h4>🌱</h4>
-      <sub><b>Learning</b><br/>OpenCV &amp; C++</sub>
+    <td align="center" valign="middle"><h2>🔭</h2></td>
+    <td valign="middle">
+      <b>Currently Building</b><br/>
+      <sub><a href="https://github.com/KrisnaWirahadikusuma/HandPoint">HandPoint</a> — a gesture-controlled virtual mouse.</sub>
     </td>
-    <td width="65%" valign="middle">
-      <h4>🤝 Open to Collaborate On</h4>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><h2>🌱</h2></td>
+    <td valign="middle">
+      <b>Currently Learning</b><br/>
+      <sub>Computer Vision, OpenCV &amp; C++.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><h2>🤝</h2></td>
+    <td valign="middle">
+      <b>Open to Collaborate On</b><br/>
       <sub>Real-time computer-vision projects and human-computer interaction tools.</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle"><h2>🤔</h2></td>
+    <td valign="middle">
+      <b>Looking for Help With</b><br/>
+      <sub>Optimizing model inference for low-latency, edge-device deployment.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><h2>💬</h2></td>
+    <td valign="middle">
+      <b>Ask Me About</b><br/>
+      <sub>OpenCV, gesture recognition, or biometric anti-spoofing.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><h2>⚡</h2></td>
+    <td valign="middle">
+      <b>Fun Fact</b><br/>
+      <sub>I once debugged a hand-tracking model for three days — turns out the webcam feed was just mirrored.</sub>
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <sub>🤔 <b>Looking for help with</b> — low-latency model inference on edge devices &nbsp;&nbsp;|&nbsp;&nbsp; 💬 <b>Ask me about</b> — gesture recognition &amp; anti-spoofing</sub>
-</p>
-
-<p align="center">
-  <sub>⚡ <b>Fun fact:</b> I once debugged a hand-tracking model for three days — turns out the webcam feed was just mirrored.</sub>
-</p>
 
 <br/>
 
@@ -157,35 +178,31 @@
 <br/>
 
 <!-- ============================================ -->
-<!--   FEATURED PROJECTS — symmetric 35/65 zigzag  -->
+<!--   FEATURED PROJECTS — stacked, full-width rows -->
 <!-- ============================================ -->
 <h3 align="center">˙⋆✮ Production-Grade Deployments</h3>
 
 <table align="center" width="100%">
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <h1>🖐️</h1>
+    <td width="12%" align="center" valign="middle"><h1>🖐️</h1></td>
+    <td width="88%" valign="middle">
       <a href="https://github.com/KrisnaWirahadikusuma/HandPoint">
         <img src="https://img.shields.io/badge/HandPoint-9D4EDD?style=for-the-badge&amp;logo=opencv&amp;logoColor=white&amp;labelColor=1A0033" />
-      </a>
-    </td>
-    <td width="65%" valign="middle">
+      </a><br/>
       <b>Gesture Virtual Mouse</b><br/>
-      <sub>Touchless computer control using real-time hand-tracking, built with Python &amp; OpenCV. No touchpad, no clicks — just your hand.</sub><br/><br/>
+      <sub>Touchless computer control using real-time hand-tracking, built with Python &amp; OpenCV. No touchpad, no clicks — just your hand.</sub><br/>
       <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/HandPoint?style=flat-square&amp;color=9D4EDD&amp;labelColor=1A0033" />
     </td>
   </tr>
   <tr>
-    <td width="65%" valign="middle" align="right">
-      <b>Biometric Anti-Spoofing</b><br/>
-      <sub>Real-time face verification with continuous liveness detection, built for online proctoring where a photo shouldn't be enough to fool the system.</sub><br/><br/>
-      <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/FacialAuth?style=flat-square&amp;color=9D4EDD&amp;labelColor=1A0033" />
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <h1>🛡️</h1>
+    <td align="center" valign="middle"><h1>🛡️</h1></td>
+    <td valign="middle">
       <a href="https://github.com/KrisnaWirahadikusuma/FacialAuth">
         <img src="https://img.shields.io/badge/FacialAuth-9D4EDD?style=for-the-badge&amp;logo=python&amp;logoColor=white&amp;labelColor=1A0033" />
-      </a>
+      </a><br/>
+      <b>Biometric Anti-Spoofing</b><br/>
+      <sub>Real-time face verification with continuous liveness detection, built for online proctoring where a photo shouldn't be enough to fool the system.</sub><br/>
+      <img src="https://img.shields.io/github/last-commit/KrisnaWirahadikusuma/FacialAuth?style=flat-square&amp;color=9D4EDD&amp;labelColor=1A0033" />
     </td>
   </tr>
 </table>
