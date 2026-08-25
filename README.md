@@ -37,9 +37,6 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--   DIRECTIVE — mission statement blockquote    -->
-<!-- ============================================ -->
 <blockquote>
 <sub>
 <b>Directive:</b> Engineering robust architectures, exploiting network vulnerabilities (ethically), and building touchless human-computer interfaces. Currently scaling foundational knowledge into production-grade systems.
